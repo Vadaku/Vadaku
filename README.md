@@ -1,4 +1,4 @@
-# Kia ora 👋, it's Nevada
+# Kia ora 👋🏾, it's Nevada
 - 👨🏾 Software engineer based in New Zealand
 - 🌱 I’m currently learning NextJS
 - 📫 How to reach me: kingiwhata@gmail.com 
